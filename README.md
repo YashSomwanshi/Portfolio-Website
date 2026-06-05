@@ -1,4 +1,4 @@
-# 🎮 Yash Somwanshi — Cyberpunk Gaming Portfolio
+# 🎮 Yash Somwanshi — Portfolio
 
 An immersive, cyberpunk-inspired gaming dossier and developer portfolio website. Designed as a high-tech Game HUD interface, it highlights professional statistics, level progressions, project portfolios, and game developer achievements.
 
